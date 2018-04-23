@@ -1,0 +1,13 @@
+{
+    "name": "itk-dev/composer-virtualenv",
+    "description": "A simple virtual environment for composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikkel Ricky",
+            "email": "rimi@aarhus.dk"
+        }
+    ],
+    "bin": ["bin/activate-virtualenv"]
+}
