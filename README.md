@@ -34,7 +34,7 @@ Installation
 ------------
 
 ```sh
-composer require itk-dev/composer-virtualenv dev-master
+composer require itk-dev/composer-virtualenv "^1.0"
 ```
 
 Activating the virtual environment
